@@ -51,7 +51,7 @@ mongo-id@1.0.1-beta.16
 npm-mongo@1.4.40-beta.16
 observe-sequence@1.0.8-beta.16
 ordered-dict@1.0.4-beta.16
-project-ci:package-ci@0.0.1
+project-ci:package-ci@0.0.2
 promise@0.5.2-beta.16
 random@1.0.6-beta.16
 reactive-dict@1.1.4-beta.16
