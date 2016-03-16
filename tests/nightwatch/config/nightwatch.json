@@ -3,6 +3,7 @@
     "version": "0.7.6"
   },
   "src_folders": [
+    "./packages/package-ci/tools/testing",
     "./tests/nightwatch/walkthroughs"
   ],
   "output_folder": "./tests/nightwatch/reports",
